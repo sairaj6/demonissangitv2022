@@ -1,3 +1,3 @@
 # Demo
 
-it is demonstration on REAMME Markdown file
+it is demonstration on README Markdown file
